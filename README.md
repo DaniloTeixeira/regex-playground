@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Principais regras RgExp
 
 > CLASSE DE CARACTERES
@@ -17,3 +18,8 @@
 [A-G] -> mesma regra, só que para caractere maiúsculo
 
 > ÂNCORAS
+=======
+# regex-playground
+
+Exercícios para treinar conceitos RegExp em Javascript
+>>>>>>> 163b73f633c7380fe6342dba54a7b1f23a41a174
