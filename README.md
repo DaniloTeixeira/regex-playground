@@ -1,3 +1,3 @@
 # regex-playground
 
-Exercícios para treinar conceitos RegExp
+Exercícios para treinar conceitos RegExp em Javascript
