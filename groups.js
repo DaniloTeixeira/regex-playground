@@ -1,0 +1,4 @@
+// \b(\w+)\s\1\b
+
+
+// Reunimos as as melhores práticas para criar o seu conteúdo com qualidade e rapidez, e tudo isso em um só lugar. Você ganha melhor melhor visibilidade de seu site ou blog, geração automática de conteúdo rápido e de qualidade. Uma grande característica do sistema é a utilização de palavras-chave que seus clientes estão buscando pela internet a fim de de deixar seu conteúdo com com qualidade e relevância para seu seu público-alvo. A automação de nossa ferramenta pode preencher as suas lacunas no seu calendário editorial, auxiliando em produzir conteúdos de qualidade e ganhando tempo para para distribuir em outras tarefas, nós somos.
