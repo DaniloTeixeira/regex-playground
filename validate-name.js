@@ -1,4 +1,4 @@
-// Validar primeiro nome e nome completo
+// Valida primeiro nome e nome completo
 
 function validateFirstName(str) {
     const regex = new RegExp(/^[A-Z][a-zá-ù]+/g);

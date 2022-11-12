@@ -11,8 +11,6 @@
 
 
 
-// Validar e-mail
-const validateEmail = new RegExp(/\w+\S\w+[@]\w+[.]\w{2,3}([.]\w{2})?/g);
 //ou modelo genérico
 const validateEmail2 = new RegExp(/\S+[@]\S+\.\S+/g);
 
